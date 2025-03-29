@@ -2,3 +2,6 @@ site_name: Czuła Psychologia
 site_url: http://czula.com
 theme:
   name: material
+plugins: 
+  - blog:
+      blog_dir: .
