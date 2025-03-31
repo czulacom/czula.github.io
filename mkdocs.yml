@@ -5,6 +5,12 @@ theme:
   palette:
     primary: brown
   language: pl
+  features:
+    - navigation.footer  
 plugins: 
   - blog:
       blog_dir: .
+extra:
+  social:
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/czula_psychologia
