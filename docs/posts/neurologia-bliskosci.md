@@ -7,7 +7,7 @@ categories:
   - ciąża
   - macierzyństwo
 ---
-# Ciąża, mózg i siła wsparcia - neurologi bliskości
+# Ciąża, mózg i siła wsparcia - neurologia bliskości
 
 Mózg potrzebuje ludzi. Tak jak tlenu.
 
@@ -15,6 +15,8 @@ Samotność to nie tylko stan ducha – aktywuje w mózgu te same obszary, co fi
 Cierpimy realnie, kiedy jesteśmy odcięci od innych. Szczególnie wtedy, gdy jesteśmy w trudnym lub przełomowym momencie życia – jak ciąża.
 
 <!-- more -->
+
+[![Neurologi bliskości](res/bliskosc.png)](res/bliskosc.png)
 
 Relacje społeczne chronią.
 Obniżają stres, wspierają odporność psychiczną, przywracają równowagę.
