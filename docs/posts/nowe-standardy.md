@@ -36,8 +36,7 @@ Zdrowie fizyczne i psychiczne są równie ważne. Każda kobieta – niezależni
 Co o tym myślisz?
 Masz doświadczenie z opieką okołoporodową w Polsce? Podziel się swoją historią lub opinią w komentarzu ⬇️
 
-📎 Źródło:
-
+## 📎 Źródło:
 
 [![Artykuł z e-ginekologia.pl/](res/art.png)](res/art.png)
 
