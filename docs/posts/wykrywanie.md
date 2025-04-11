@@ -28,9 +28,13 @@ Nie chodzi tu tylko o „gorszy nastrój”.
 Badania pokazują, że nieleczona depresja w ciąży i po porodzie może:
 
 ❌ Zwiększyć ryzyko porodu przedwczesnego
+
 ❌ Utrudnić budowanie więzi z dzieckiem
+
 ❌ Sprawić, że poród stanie się traumą
+
 ❌ Zniechęcić do kolejnej ciąży
+
 ❌ Wpłynąć negatywnie na rozwój emocjonalny dziecka
 
 🔍 Co możesz zrobić?
@@ -39,7 +43,9 @@ Pierwszy krok to świadomość i badanie przesiewowe.
 W Polsce zaleca się wykonywanie Edynburskiej Skali Depresji Poporodowej (EPDS):
 
 ✅ między 11. a 14. tygodniem ciąży
+
 ✅ między 33. a 37. tygodniem ciąży
+
 ✅ w ciągu pierwszych 8 tygodni po porodzie
 
 Jeśli Twój lekarz lub położna nie zaproponowali tego badania – poproś o nie.
@@ -55,6 +61,7 @@ Silna, wspierana mama to większe bezpieczeństwo dla malucha – i więcej prze
 Badania pokazują, że skuteczne w leczeniu depresji okołoporodowej są:
 
 💡 Terapia poznawczo-behawioralna (CBT)
+
 💡 Terapia akceptacji i zaangażowania (ACT) – wspiera elastyczność psychologiczną, pomaga radzić sobie z trudnymi emocjami bez walki z nimi.
 
 Wczesna interwencja to nie tylko ulga dla Ciebie – to inwestycja w Was oboje.
@@ -66,5 +73,5 @@ Do tego, by powiedzieć: „To dla mnie za dużo” – i zostać usłyszaną.
 
 💙 Jesteś ważna.
 
-📌 Źródło:
+##📌 Źródło:
 Reducing Depression in Pregnancy and Postpartum Period through Acceptance and Commitment Therapy

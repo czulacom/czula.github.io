@@ -56,7 +56,8 @@ Bądź po prostu – tu, teraz, prawdziwie.
 
 To najwięcej, co możesz dać – i sobie, i swojemu dziecku.
 
-📚 Literatura i źródła:
+## 📚 źródła:
+
 Hayes, S. C., Strosahl, K. D., & Wilson, K. G. (2012). Acceptance and Commitment Therapy: The Process and Practice of Mindful Change (2nd ed.). New York: Guilford Press.
 
 
