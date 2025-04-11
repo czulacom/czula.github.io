@@ -7,26 +7,64 @@ categories:
   - ciąża
   - macierzyństwo
 ---
-# 5 sposobów na spokój w maicerzyństwie
+# Macierzyństwo bez presji: ACT jako wsparcie w codzienności
+Macierzyństwo to rollercoaster. Od radości po zmęczenie. Od czułości po frustrację. Świat często oczekuje od nas perfekcji – zawsze uśmiechniętej, spokojnej, zorganizowanej. A my same? Potrafimy być dla siebie najsurowszymi sędziami.
 
-Macierzyństwo to rollercoaster emocji – od radości po zmęczenie i stres. Świat oczekuje perfekcji, a my same bywamy dla siebie najsurowszymi sędziami. Jak odnaleźć równowagę? Terapia ACT ma na to sposób:
+Jak się w tym wszystkim nie zgubić?
+Terapia ACT (Acceptance and Commitment Therapy) daje narzędzia, które pozwalają nie walczyć z rzeczywistością, tylko nauczyć się z nią być – z czułością i świadomością.
 
 <!-- more -->
 
 
-💛 Akceptacja emocji – Nie walcz z trudnymi uczuciami, one są naturalne. Nazwij je: „Czuję się przytłoczona” i pozwól im być.
+💛 Akceptacja emocji
+Nie musisz być zawsze spokojna.
+Trudne uczucia są naturalne – to, że się pojawiają, nie znaczy, że coś z Tobą nie tak.
 
-💭 Defuzja myśli – Myśl to nie fakt! Jeśli słyszysz w głowie „Nie radzę sobie”, powiedz: „Mam myśl, że nie radzę sobie” – i pozwól jej odpłynąć.
+Zamiast: „Nie powinnam się tak czuć”,
+Spróbuj: „Czuję się przytłoczona – i to jest okej”.
 
-🌿 Bycie tu i teraz – Zatrzymaj się. Poczuj ziemię pod stopami, ciepło dziecka w ramionach. Tu i teraz jest ważne.
+💭 Defuzja myśli
+Myśl to tylko myśl – nie fakt.
+Gdy w głowie pojawia się: „Nie radzę sobie”, zrób krok w tył i powiedz:
 
-🎯 Działanie zgodne z wartościami – Określ, co jest dla Ciebie najważniejsze w macierzyństwie. Czułość? Bliskość? Podejmuj małe kroki w tym kierunku.
+„Mam myśl, że nie radzę sobie.”
+Nie chodzi o to, żeby ją uciszyć – wystarczy ją zauważyć. I pozwolić jej odpłynąć.
 
-💙 Samowspółczucie – Traktuj siebie jak najlepszą przyjaciółkę. Błędy? Każdy je popełnia! Powiedz sobie: „Robię najlepiej, jak potrafię”.
+🌿 Bycie tu i teraz
+Zamiast żyć w „co jeszcze muszę ogarnąć” – zatrzymaj się.
+Poczuj ziemię pod stopami. Oddech dziecka.
+Zamień autopilota na obecność.
 
-ACT nie uczy, jak „pozbyć się” trudnych emocji, ale jak z nimi żyć w zgodzie. Małymi krokami możesz budować większą odporność psychiczną i radość w codziennym życiu.
+🎯 Działanie zgodne z wartościami
+Co jest dla Ciebie ważne w macierzyństwie?
+Czułość? Bliskość? Obecność?
 
-Daj sobie czas! Zatrzymaj się i nie osądzaj. Bądź po prostu. To najlepsze co możesz dać zarówno sobie jak i dziecku.
+Nie musisz działać idealnie. Wystarczą drobne decyzje, które są zgodne z tym, co dla Ciebie naprawdę się liczy.
 
-Który sposób wypróbujesz dziś? 💬✨
+💙 Samowspółczucie
+Mówi się, że mama powinna być łagodna… ale nie zapominaj o sobie.
+Traktuj się jak najlepszą przyjaciółkę.
+
+„To był trudny dzień. Robię, co mogę.”
+To nie jest słabość – to siła.
+
+Nie idealnie, ale autentycznie
+ACT nie mówi: „usuń stres, przestań czuć smutek”.
+Mówi: „bądź z tym, co jest – i idź dalej, krok po kroku”.
+Daj sobie czas. Daj sobie oddech.
+Bądź po prostu – tu, teraz, prawdziwie.
+
+To najwięcej, co możesz dać – i sobie, i swojemu dziecku.
+
+📚 Literatura i źródła:
+Hayes, S. C., Strosahl, K. D., & Wilson, K. G. (2012). Acceptance and Commitment Therapy: The Process and Practice of Mindful Change (2nd ed.). New York: Guilford Press.
+
+
+Harris, R. (2009). Zrozumieć ACT. Terapia akceptacji i zaangażowania w praktyce. Gdańsk: GWP.
+
+Neff, K. D. (2003). Self-compassion: An alternative conceptualization of a healthy attitude toward oneself. Self and Identity, 2(2), 85–101.
+
+
+Levin, M. E., Hildebrandt, M. J., Lillis, J., & Hayes, S. C. (2012). The impact of treatment components suggested by the psychological flexibility model: A meta-analysis of laboratory-based component studies. Behavior Therapy, 43(4), 741–756.
+
 

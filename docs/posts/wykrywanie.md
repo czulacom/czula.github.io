@@ -10,42 +10,61 @@ categories:
 
 # Zdrowie psychiczne mam – wczesne wykrycie i interwencja
 
-📢 Ciąża i macierzyństwo – piękny, ale też wymagający czas. Nie zawsze jest tak, jak pokazują piękne kadry w social mediach. Zamiast euforii, możesz czuć zmęczenie, lęk, smutek. I to też jest w porządku.
+Ciąża i macierzyństwo to czas ogromnych zmian.
+Czasem pięknych, ale często też wyczerpujących.
+To, co widzisz w social mediach – promieniejące twarze, pastelowe pokoiki, beztroskie spacery – to tylko część prawdy.
+
+Bo obok euforii może pojawić się lęk.
+Zmęczenie. Drażliwość. Smutek.
+I wiesz co? To też jest w porządku.
 
 <!-- more -->
 
-💡 Ale wiesz co? Nie jesteś sama.
+💡 Ale najważniejsze: nie jesteś sama.
+Depresja okołoporodowa to nie fanaberia ani dowód słabości.
+To realne zaburzenie, które może dotknąć każdą kobietę – niezależnie od tego, jak bardzo chciała być mamą.
 
-Depresja okołoporodowa to nie „fanaberia” ani „słabość”. To **realny problem**, który dotyka wiele kobiet. I nie chodzi tylko o złe samopoczucie. Badania pokazują, że depresja w ciąży może:
+Nie chodzi tu tylko o „gorszy nastrój”.
+Badania pokazują, że nieleczona depresja w ciąży i po porodzie może:
 
-❌ Zwiększyć ryzyko przedwczesnego porodu
-
-❌ Utrudnić nawiązanie więzi z dzieckiem
-
+❌ Zwiększyć ryzyko porodu przedwczesnego
+❌ Utrudnić budowanie więzi z dzieckiem
 ❌ Sprawić, że poród stanie się traumą
-
 ❌ Zniechęcić do kolejnej ciąży
+❌ Wpłynąć negatywnie na rozwój emocjonalny dziecka
 
-➡️ **Ale jest coś, co może pomóc.**
-Wczesne wykrycie i wsparcie mogą wiele zmieniċ
+🔍 Co możesz zrobić?
+Pierwszy krok to świadomość i badanie przesiewowe.
 
-🔍 Jak sprawdzić, czy potrzebujesz wsparcia?
-Zrób prosty test – Edynburską Skalę Depresji Poporodowej (EPDS). W Polsce powinno się go wykonywać:
+W Polsce zaleca się wykonywanie Edynburskiej Skali Depresji Poporodowej (EPDS):
 
-✅ Między 11. a 14. tygodniem ciąży
+✅ między 11. a 14. tygodniem ciąży
+✅ między 33. a 37. tygodniem ciąży
+✅ w ciągu pierwszych 8 tygodni po porodzie
 
-✅ Między 33. a 37. tygodniem ciąży
+Jeśli Twój lekarz lub położna nie zaproponowali tego badania – poproś o nie.
+To prosty test, a może wiele wyjaśnić.
 
-✅ W pierwszych 8 tygodniach po porodzie
-- jeśli Twój ginekolog nie przeprowadził takiego badania poproś o nie!
+🤝 A jeśli czujesz, że jest Ci trudno – zasługujesz na pomoc.
+Nie musisz czekać, aż „będzie naprawdę źle”.
+Twoje zdrowie psychiczne jest równie ważne jak zdrowie Twojego dziecka.
 
-💬 Jeśli czujesz, że jest Ci trudno – zasługujesz na pomoc.Nie musisz czekać, aż będzie „naprawdę źle”. Twoje zdrowie psychiczne jest tak samo ważne, jak zdrowie Twojego dziecka. Silna i wspierana mama to szczęśliwe dziecko.
+Silna, wspierana mama to większe bezpieczeństwo dla malucha – i więcej przestrzeni na bliskość, czułość, relację.
 
-Badania wskazują na skuteczność terapii poznawczo-behawioralnej oraz terapii ACT miedzy innymi w depresji i lękach.
-Dzięki wczesnej interwencji wspierasz zarówno siebie jak i Twoje dziecko.
-Nie musisz samotnie zmagać się z problem 🌸
+🧠 Co może pomóc?
+Badania pokazują, że skuteczne w leczeniu depresji okołoporodowej są:
 
-💙 Jesteś ważna. Masz prawo do pomocy.
+💡 Terapia poznawczo-behawioralna (CBT)
+💡 Terapia akceptacji i zaangażowania (ACT) – wspiera elastyczność psychologiczną, pomaga radzić sobie z trudnymi emocjami bez walki z nimi.
+
+Wczesna interwencja to nie tylko ulga dla Ciebie – to inwestycja w Was oboje.
+
+🌸 Nie musisz być sama
+Są sposoby, by poczuć się lepiej. Są ludzie, którzy mogą pomóc.
+Masz prawo do wsparcia. Do odpoczynku. Do troski.
+Do tego, by powiedzieć: „To dla mnie za dużo” – i zostać usłyszaną.
+
+💙 Jesteś ważna.
 
 📌 Źródło:
-„Reducing Depression in Pregnancy and Postpartum Period through Acceptance and Commitment Therapy”
+Reducing Depression in Pregnancy and Postpartum Period through Acceptance and Commitment Therapy

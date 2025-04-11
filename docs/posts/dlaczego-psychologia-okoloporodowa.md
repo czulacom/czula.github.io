@@ -10,23 +10,35 @@ categories:
 
 # Dlaczego psychologia okołoporodowa?
 
-Tematyka ta jest mi wyjątkowo bliska w dużej części dlatego, że sama jestem kobietą. Zauważam że Kobiety, zmagają się z licznymi dylematami:
+Tematyka psychologii okołoporodowej jest mi wyjątkowo bliska – w dużej mierze dlatego, że sama jestem kobietą. Z bliska widzę, jak wiele z nas mierzy się z pytaniami, które nie zawsze znajdują miejsce w otwartej rozmowie.
 
 <!-- more -->
 
-🤔Czy chcę być matką?
+🤔 Czy chcę być matką?
+🤰 Kiedy wreszcie zostanę matką?
+🤱 Jak być matką w świecie, który tak dużo oczekuje?
+👩‍💼 Co jeśli nie mogę zostać mamą biologicznie?
+🖤 Czy po przedwczesnej stracie wciąż mogę nazywać się matką?
 
-🤰Kiedy nareszcie zostanę matką?
+To pytania, które niosą w sobie ogrom emocji – od nadziei, przez lęk, aż po smutek i poczucie zagubienia.
+Zbyt często kobiety przeżywają te dylematy samotnie, zmagając się z niezrozumieniem – ze strony bliskich, otoczenia, a czasem nawet samych siebie.
 
-🤱Jak być matką?
+Wśród najczęstszych trudności pojawiają się:
+• lęk w ciąży i po porodzie
+• depresja okołoporodowa
+• wypalenie rodzicielskie
+• strata i żałoba po utraconym dziecku
 
-👩A także w przypadku przedwczesnej straty: czy można powiedzieć że jestem matką?
+To realne stany, które wymagają wsparcia – nie przemilczenia.
+Dlatego właśnie chcę mówić o tym głośno.
 
-Pytania te i stany mentalne takie jak lęk, depresja, wypalenie rodzicielskie czy żałoba, często są niezauważalne przez społeczeństwo i kobiety samotnie się z nimi zmagają czując się niezrozumiałe.
+Dzięki połączeniu wiedzy psychologicznej, medycznej i empatii, moim celem jest wspieranie kobiet w budowaniu elastyczności psychologicznej. Chcę pomóc w:
+💙 akceptacji własnych myśli i emocji
+💙 świadomym działaniu mimo trudności
+💙 odnajdywaniu i realizowaniu swoich wartości
 
-Dzięki wiedzy psychologicznej, medycznej, a także empatii chciałabym wyposażyć kobiety w elastyczność psychologiczną poprzez akceptację swoich myśli, zaangażowane działanie oraz określenie wartości.
+Piszę i mówię o tym również po to, by przełamywać tabu wokół zdrowia psychicznego kobiet w okresie ciąży, porodu i połogu.
+Bo każda z nas zasługuje na przestrzeń do rozmowy, zrozumienie i realne wsparcie.
 
-Temat ten poruszam również po to by przełamać tabu wokół problemów psychicznych kobiet w tym okresie życia.
-
-Jeśli taka tematyka jest Tobie bliska zachęcam do obserwowania.
-
+Jeśli ten temat jest Ci bliski – zostań na dłużej.
+Znajdziesz tu przestrzeń pełną empatii, wiedzy i obecności. 🌿
