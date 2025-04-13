@@ -13,11 +13,11 @@ Ciąża to czas wielkich zmian – nie tylko w ciele, ale i w psychice. Choć wo
 •	tęsknota za „dawnym życiem”,<br>
 •	poczucie winy, że nie czują się tak, jak „powinny”.<br>
 
-Wiele z nas myśli wtedy: „Nie powinnam tak się czuć”, „Jestem niewystarczająca”. A prawda jest taka, że nie jesteś sama.
+Wiele z nas myśli wtedy: *„Nie powinnam tak się czuć”*, *„Jestem niewystarczająca”*. A prawda jest taka, że **nie jesteś sama**.
 Czym jest ten program?
 
 To cykl **8 spotkań grupowych online** (6 w ciąży, 2 po porodzie), opartych na podejściu ACT – terapii akceptacji i zaangażowania. To nowoczesna, empirycznie potwierdzona metoda pracy z emocjami i myślami, oparta na akceptacji, dystansie do trudnych treści oraz życiu w zgodzie z własnymi wartościami.
-ACT pomaga radzić sobie z wewnętrznym krytykiem, stresem i lękiem – nie przez ich tłumienie, ale przez budowanie siły psychicznej i elastyczności. Terapia ta została przebadana w ponad 1300 badaniach naukowych, w tym w pracy z kobietami w ciąży i po porodzie.
+ACT pomaga radzić sobie z wewnętrznym krytykiem, stresem i lękiem – nie przez ich tłumienie, ale przez budowanie siły psychicznej i elastyczności. Terapia ta została przebadana w ponad **1300 badaniach naukowych**, w tym w pracy z kobietami w ciąży i po porodzie.
 
 ## Dla kogo?
 
@@ -30,8 +30,9 @@ Dla każdej kobiety, która:
 
 ## Kim jestem?
 
-Nazywam się Anna Dulian. Jestem magistrem pielęgniarstwa z 9-letnim stażem oraz studentką psychologii (III rok). Odbywam praktyki kliniczne w OTPB Poznań i specjalizuję się w tematyce psychologii okołoporodowej – bo jestem nie tylko specjalistką, ale też kobietą i mamą. Znam te emocje od środka.
-Jak wyglądają spotkania?
+Nazywam się **Anna Dulian**. Jestem magistrem pielęgniarstwa z 9-letnim stażem oraz studentką psychologii (III rok). Odbywam praktyki kliniczne w OTPB Poznań i specjalizuję się w tematyce psychologii okołoporodowej – bo jestem nie tylko specjalistką, ale też kobietą i mamą. Znam te emocje od środka.
+
+##  Jak wyglądają spotkania?
 
 •	odbywają się online (Google Meet),<br>
 •	w kameralnej grupie,<br>
@@ -44,10 +45,10 @@ Jak wyglądają spotkania?
 👉 **Program ruszy, gdy zbierze się grupa 3–6 kobiet**. Dzięki temu każda uczestniczka będzie mogła poczuć się widziana, usłyszana i bezpieczna.
 Zgłoś się, jeśli:
 
-•	czujesz, że to „nie taka radosna ciąża, jak miało być”,<br>
+•	czujesz, że to *„nie taka radosna ciąża, jak miało być”*,<br>
 •	boisz się, że sobie nie poradzisz,<br>
 •	nie chcesz być z tym wszystkim sama.<br>
 
-Napisz do mnie przez formularz kontaktowy lub wiadomość prywatną.
+[Napisz do mnie](mailto:psycho@czula.com) maila lub wyslij wiadomość prywatną do mnie na Instagramie.
 Nie musisz przechodzić przez ten czas w samotności. Razem – będzie spokojniej. 💛
 
