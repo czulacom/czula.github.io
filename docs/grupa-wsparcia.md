@@ -14,7 +14,8 @@ Ciąża to czas wielkich zmian – nie tylko w ciele, ale i w psychice. Choć wo
 •	poczucie winy, że nie czują się tak, jak „powinny”.<br>
 
 Wiele z nas myśli wtedy: *„Nie powinnam tak się czuć”*, *„Jestem niewystarczająca”*. A prawda jest taka, że **nie jesteś sama**.
-Czym jest ten program?
+
+## Czym jest ten program?
 
 To cykl **8 spotkań grupowych online** (6 w ciąży, 2 po porodzie), opartych na podejściu ACT – terapii akceptacji i zaangażowania. To nowoczesna, empirycznie potwierdzona metoda pracy z emocjami i myślami, oparta na akceptacji, dystansie do trudnych treści oraz życiu w zgodzie z własnymi wartościami.
 ACT pomaga radzić sobie z wewnętrznym krytykiem, stresem i lękiem – nie przez ich tłumienie, ale przez budowanie siły psychicznej i elastyczności. Terapia ta została przebadana w ponad [**1300 badaniach naukowych**](https://contextualscience.org/resources_clinicians), w tym w pracy z kobietami w ciąży i po porodzie.
