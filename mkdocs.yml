@@ -1,5 +1,7 @@
 site_name: Czuła Psychologia
 site_url: https://czula.com
+nav:
+  - Grupa wsparcia: grupa-wsparcia.md
 theme:
   name: material
   palette:

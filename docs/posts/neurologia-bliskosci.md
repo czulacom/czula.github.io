@@ -48,7 +48,7 @@ Zadbaj o to. Świadomie.
 Nie czekaj, aż będziesz miała wolny weekend i idealny nastrój.
 Zacznij od drobiazgów. Od wiadomości, od pytania „co u Ciebie?”, od wyjścia z domu na spacer. Daj znać, że jesteś. I pozwól, żeby ktoś był przy Tobie.
 
-## Źródła:
+## Źródła
 
 [Kalat, J. W. (2019). Biologiczne podstawy psychologii (wyd. 3). Warszawa: Wydawnictwo Naukowe PWN.](https://ksiegarnia.pwn.pl/Biologiczne-podstawy-psychologii,841581572,p.html)
 
